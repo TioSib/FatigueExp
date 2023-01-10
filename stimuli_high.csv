@@ -1,0 +1,85 @@
+up_up;left_up;left_down;down_down;right_down;right_up;condition;SIDE_left;corr_ans;SIDE_right
+N;H;M;K;Z;V;Cong;N;N;      
+V;N;H;M;K;Z;Cong;N;N;      
+Z;V;N;H;M;K;Cong;N;N;      
+K;Z;V;N;H;M;Cong;N;N;      
+M;K;Z;V;N;H;Cong;N;N;      
+H;M;K;Z;V;N;Cong;N;N;      
+N;K;H;V;M;Z;Inco;X;N;      
+Z;N;K;H;V;M;Inco;X;N;      
+M;Z;N;K;H;V;Inco;X;N;      
+V;M;Z;N;K;H;Inco;X;N;      
+H;V;M;Z;N;K;Inco;X;N;      
+K;H;V;M;Z;N;Inco;X;N;      
+N;V;M;Z;H;K;Neut;H;N;      
+K;N;V;M;Z;H;Neut;M;N;      
+H;K;N;V;M;Z;Neut;K;N;      
+Z;H;K;N;V;M;Neut;Z;N;      
+M;Z;H;K;N;V;Neut;W;N;      
+V;M;Z;H;K;N;Neut;V;N;      
+W;H;K;Z;V;M;Zero;M;None;      
+M;W;H;K;Z;V;Zero;K;None;      
+V;M;K;H;W;Z;Zero;Z;None;      
+W;V;M;Z;H;K;Zero;W;None;      
+K;Z;V;M;W;H;Zero;V;None;      
+H;K;Z;W;M;V;Zero;K;None;      
+X;V;H;K;M;Z;Inco;N;X;      
+Z;X;V;H;K;M;Inco;N;X;      
+M;Z;X;V;H;K;Inco;N;X;      
+K;M;Z;X;V;H;Inco;N;X;      
+H;K;M;Z;X;V;Inco;N;X;      
+V;H;K;M;Z;X;Inco;N;X;      
+X;M;V;Z;K;H;Cong;X;X;      
+H;X;M;V;Z;K;Cong;X;X;      
+K;H;X;M;V;Z;Cong;X;X;      
+Z;K;H;X;M;V;Cong;X;X;      
+V;Z;K;H;X;M;Cong;X;X;      
+M;V;Z;K;H;X;Cong;X;X;      
+X;Z;V;K;H;M;Neut;H;X;      
+M;X;Z;V;K;H;Neut;M;X;      
+H;M;X;Z;V;K;Neut;K;X;      
+K;H;M;X;Z;V;Neut;Z;X;      
+V;K;H;M;X;Z;Neut;W;X;      
+Z;V;K;H;M;X;Neut;V;X;      
+N;V;H;M;Z;K;Cong;      ;N;N
+K;N;V;H;M;Z;Cong;      ;N;N
+Z;K;N;V;H;M;Cong;      ;N;N
+M;Z;K;N;V;H;Cong;      ;N;N
+H;M;Z;K;N;V;Cong;      ;N;N
+V;H;M;Z;K;N;Cong;      ;N;N
+N;K;M;H;V;Z;Inco;      ;N;X
+Z;N;K;M;H;V;Inco;      ;N;X
+V;Z;N;K;M;H;Inco;      ;N;X
+H;V;Z;N;K;M;Inco;      ;N;X
+M;H;V;Z;N;K;Inco;      ;N;X
+K;M;H;V;Z;N;Inco;      ;N;X
+N;H;Z;V;M;K;Neut;      ;N;H
+K;N;H;Z;V;M;Neut;      ;N;M
+M;K;N;H;Z;V;Neut;      ;N;K
+V;M;K;N;H;Z;Neut;      ;N;Z
+Z;V;M;K;N;H;Neut;      ;N;W
+H;Z;V;M;K;N;Neut;      ;N;V
+H;V;K;M;Z;H;Zero;      ;None;M
+H;M;V;K;M;Z;Zero;      ;None;K
+Z;H;K;V;K;M;Zero;      ;None;Z
+M;Z;H;Z;V;K;Zero;      ;None;W
+K;M;Z;H;W;V;Zero;      ;None;V
+V;K;M;Z;H;V;Zero;      ;None;K
+X;M;Z;H;V;K;Inco;      ;X;N
+K;X;M;Z;H;V;Inco;      ;X;N
+V;K;X;M;Z;H;Inco;      ;X;N
+H;V;K;X;M;Z;Inco;      ;X;N
+Z;H;V;K;X;M;Inco;      ;X;N
+M;Z;H;V;K;X;Inco;      ;X;N
+X;M;K;H;V;Z;Cong;      ;X;X
+Z;X;M;K;H;V;Cong;      ;X;X
+V;Z;X;M;K;H;Cong;      ;X;X
+H;V;Z;X;M;K;Cong;      ;X;X
+K;H;V;Z;X;M;Cong;      ;X;X
+M;K;H;V;Z;X;Cong;      ;X;X
+X;Z;M;V;H;K;Neut;      ;X;H
+K;X;Z;M;V;H;Neut;      ;X;M
+H;K;X;Z;M;V;Neut;      ;X;K
+V;H;K;X;Z;M;Neut;      ;X;Z
+M;V;H;K;X;Z;Neut;      ;X;W
+Z;M;V;H;K;X;Neut;      ;X;V

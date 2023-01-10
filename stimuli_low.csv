@@ -1,0 +1,85 @@
+up_up;left_up;left_down;down_down;right_down;right_up;condition;SIDE_left;corr_ans;SIDE_right
+N;o;o;o;o;o;Cong;N;N;      
+o;N;o;o;o;o;Cong;N;N;      
+o;o;N;o;o;o;Cong;N;N;      
+o;o;o;N;o;o;Cong;N;N;      
+o;o;o;o;N;o;Cong;N;N;      
+o;o;o;o;o;N;Cong;N;N;      
+N;o;o;o;o;o;Inco;X;N;      
+o;N;o;o;o;o;Inco;X;N;      
+o;o;N;o;o;o;Inco;X;N;      
+o;o;o;N;o;o;Inco;X;N;      
+o;o;o;o;N;o;Inco;X;N;      
+o;o;o;o;o;N;Inco;X;N;      
+N;o;o;o;o;o;Neut;H;N;      
+o;N;o;o;o;o;Neut;M;N;      
+o;o;N;o;o;o;Neut;K;N;      
+o;o;o;N;o;o;Neut;Z;N;      
+o;o;o;o;N;o;Neut;W;N;      
+o;o;o;o;o;N;Neut;V;N;      
+H;o;o;o;o;o;Zero;M;None;      
+o;M;o;o;o;o;Zero;K;None;      
+o;o;K;o;o;o;Zero;Z;None;      
+o;o;o;Z;o;o;Zero;W;None;      
+o;o;o;o;W;o;Zero;V;None;      
+o;o;o;o;o;V;Zero;K;None;      
+X;o;o;o;o;o;Inco;N;X;      
+o;X;o;o;o;o;Inco;N;X;      
+o;o;X;o;o;o;Inco;N;X;      
+o;o;o;X;o;o;Inco;N;X;      
+o;o;o;o;X;o;Inco;N;X;      
+o;o;o;o;o;X;Inco;N;X;      
+X;o;o;o;o;o;Cong;X;X;      
+o;X;o;o;o;o;Cong;X;X;      
+o;o;X;o;o;o;Cong;X;X;      
+o;o;o;X;o;o;Cong;X;X;      
+o;o;o;o;X;o;Cong;X;X;      
+o;o;o;o;o;X;Cong;X;X;      
+X;o;o;o;o;o;Neut;H;X;      
+o;X;o;o;o;o;Neut;M;X;      
+o;o;X;o;o;o;Neut;K;X;      
+o;o;o;X;o;o;Neut;Z;X;      
+o;o;o;o;X;o;Neut;W;X;      
+o;o;o;o;o;X;Neut;V;X;      
+N;o;o;o;o;o;Cong;      ;N;N
+o;N;o;o;o;o;Cong;      ;N;N
+o;o;N;o;o;o;Cong;      ;N;N
+o;o;o;N;o;o;Cong;      ;N;N
+o;o;o;o;N;o;Cong;      ;N;N
+o;o;o;o;o;N;Cong;      ;N;N
+N;o;o;o;o;o;Inco;      ;N;X
+o;N;o;o;o;o;Inco;      ;N;X
+o;o;N;o;o;o;Inco;      ;N;X
+o;o;o;N;o;o;Inco;      ;N;X
+o;o;o;o;N;o;Inco;      ;N;X
+o;o;o;o;o;N;Inco;      ;N;X
+N;o;o;o;o;o;Neut;      ;N;H
+o;N;o;o;o;o;Neut;      ;N;M
+o;o;N;o;o;o;Neut;      ;N;K
+o;o;o;N;o;o;Neut;      ;N;Z
+o;o;o;o;N;o;Neut;      ;N;W
+o;o;o;o;o;N;Neut;      ;N;V
+H;o;o;o;o;o;Zero;      ;None;M
+o;M;o;o;o;o;Zero;      ;None;K
+o;o;K;o;o;o;Zero;      ;None;Z
+o;o;o;Z;o;o;Zero;      ;None;W
+o;o;o;o;W;o;Zero;      ;None;V
+o;o;o;o;o;V;Zero;      ;None;K
+X;o;o;o;o;o;Inco;      ;X;N
+o;X;o;o;o;o;Inco;      ;X;N
+o;o;X;o;o;o;Inco;      ;X;N
+o;o;o;X;o;o;Inco;      ;X;N
+o;o;o;o;X;o;Inco;      ;X;N
+o;o;o;o;o;X;Inco;      ;X;N
+X;o;o;o;o;o;Cong;      ;X;X
+o;X;o;o;o;o;Cong;      ;X;X
+o;o;X;o;o;o;Cong;      ;X;X
+o;o;o;X;o;o;Cong;      ;X;X
+o;o;o;o;X;o;Cong;      ;X;X
+o;o;o;o;o;X;Cong;      ;X;X
+X;o;o;o;o;o;Neut;      ;X;H
+o;X;o;o;o;o;Neut;      ;X;M
+o;o;X;o;o;o;Neut;      ;X;K
+o;o;o;X;o;o;Neut;      ;X;Z
+o;o;o;o;X;o;Neut;      ;X;W
+o;o;o;o;o;X;Neut;      ;X;V
